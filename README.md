@@ -32,6 +32,6 @@
 ![image](https://github.com/user-attachments/assets/e2137ed4-c8c4-4e97-9b41-02062a4aebea)
 
 
-Conclusion :
+# Conclusion
 The UML Diagrams for ATM & Banking Systems have been successfully created and implemented using StarUML.
 
